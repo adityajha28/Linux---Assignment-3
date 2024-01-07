@@ -1,0 +1,8 @@
+# Ignore temporary Word files
+~$*
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows temporary files
+Thumbs.db
